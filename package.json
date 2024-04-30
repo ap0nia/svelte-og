@@ -19,7 +19,14 @@
   "bugs": {
     "url": "https://github.com/ap0nia/svelte-og/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "open-graph",
+    "svelte",
+    "image",
+    "generator",
+    "image-generator",
+    "svg"
+  ],
   "type": "module",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
