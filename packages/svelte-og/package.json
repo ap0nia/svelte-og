@@ -1,0 +1,27 @@
+{
+  "name": "@ap0nia/svelte-og",
+  "version": "0.0.0",
+  "description": "SvelteKit-compatible implementation of vercel-og",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ap0nia/svelte-og",
+    "directory": "packages/svelte-og"
+  },
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.10.13",
+    "satori-html": "^0.3.2",
+    "svelte": "^4.2.13",
+    "svelte2tsx": "^0.7.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
