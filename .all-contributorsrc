@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ap0nia",
+      "name": "Aponia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66761366?v=4",
+      "profile": "https://github.com/ap0nia",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "svelte-og",
+  "projectOwner": "ap0nia"
+}
