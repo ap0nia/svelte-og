@@ -22,8 +22,7 @@
   "keywords": [
     "open-graph",
     "svelte",
-    "image",
-    "generator",
+    "sveltekit",
     "image-generator",
     "svg"
   ],
